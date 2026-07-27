@@ -41,13 +41,12 @@ I'm a 6th-semester Systems Engineering student at Universidad Libre – Pereira,
 
 ### GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=estephanyrm&show_icons=true&theme=radical)](https://github.com/estephanyrm/github-readme-stats)
+<p align="center"> <img src="https://github-readme-stats-fast.vercel.app/api?username=estephanyrm&show_icons=true&hide_border=true&bg_color=fdf1fa&title_color=b06fd1&text_color=6a4a80&icon_color=ff8fc7&border_color=e8b8e8&border_radius=16" width="48%" /> <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=estephanyrm&layout=compact&hide_border=true&bg_color=fdf1fa&title_color=b06fd1&text_color=6a4a80&border_color=e8b8e8&border_radius=16" width="48%" /> </p>
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=estephanyrm&layout=compact)
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <p align="center">
     <a href="https://github.com/estephanyrm/FlowArena">
