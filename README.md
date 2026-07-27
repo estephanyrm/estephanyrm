@@ -41,8 +41,7 @@ I'm a 6th-semester Systems Engineering student at Universidad Libre – Pereira,
 
 ### GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats-fast.vercel.app/api?username=estephanyrm&show_icons=true&hide_border=true&bg_color=fdf1fa&title_color=b06fd1&text_color=6a4a80&icon_color=ff8fc7&border_color=e8b8e8&border_radius=16" width="48%" /> <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=estephanyrm&layout=compact&hide_border=true&bg_color=fdf1fa&title_color=b06fd1&text_color=6a4a80&border_color=e8b8e8&border_radius=16" width="48%" /> </p>
-
+<table align="center"> <tr> <td> <img src="https://github-readme-stats-fast.vercel.app/api?username=estephanyrm&show_icons=true&hide_border=true&bg_color=fdf1fa&title_color=b06fd1&text_color=6a4a80&icon_color=ff8fc7&border_color=e8b8e8&border_radius=16" width="440" height="195" /> </td> <td> <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=estephanyrm&layout=compact&hide_border=true&bg_color=fdf1fa&title_color=b06fd1&text_color=6a4a80&border_color=e8b8e8&border_radius=16&langs_count=6" width="440" height="195" /> </td> </tr> </table>
 
 ---
 
